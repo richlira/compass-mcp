@@ -1,0 +1,23 @@
+{
+  "name": "compass-mcp",
+  "version": "1.0.0",
+  "description": "Personal operations MCP server for Claude — bridging Chat, Cowork, and Code",
+  "license": "MIT",
+  "type": "module",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.25.2",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.2",
+    "typescript": "5.8.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

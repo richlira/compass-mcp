@@ -1,3 +1,5 @@
+![Compass MCP](assets/compass-banner.svg)
+
 # 🧭 Compass MCP
 
 **The missing bridge between Claude Chat, Cowork, and Code.**
